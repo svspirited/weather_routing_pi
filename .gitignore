@@ -1,4 +1,4 @@
 build/
 src/version.h
 .directory
-
+.DS_Store
